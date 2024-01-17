@@ -26,7 +26,7 @@ Please see the [section below](#add-an-identity-provider) for important informat
     These variables are required:
     - `AZURE_OPENAI_RESOURCE`
     - `AZURE_OPENAI_MODEL`
-    - `AZURE_OPENAI_KEY`
+    - `AZURE_OPENAI_KEY` 
 
     These variables are optional:
     - `AZURE_OPENAI_TEMPERATURE`
