@@ -590,7 +590,7 @@ const Chat = () => {
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
-                                <h1 className={styles.chatEmptyStateTitle}>Start chatting</h1>
+                                <h1 className={styles.chatEmptyStateTitle}>How can I help you?</h1>
                                 <h2 className={styles.chatEmptyStateSubtitle}>This RM AI chatbot is configured to answer your questions</h2>
                             </Stack>
                         ) : (
