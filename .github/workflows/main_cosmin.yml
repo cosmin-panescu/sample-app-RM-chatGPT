@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Cosmin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C78AEE8B88B34FE29EFD95D0A2AE47B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6281CC69F9ED43EA9D7C2B0F82AB3AE5 }}
