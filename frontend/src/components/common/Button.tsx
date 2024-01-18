@@ -20,7 +20,7 @@ export const ShareButton: React.FC<ShareButtonProps> = ({onClick}) => {
           color: '#FFFFFF',
         },
         rootHovered: {
-          background: '#dc0028d0',
+          background: '#DC0028',
         },
         label: {
           fontWeight: 600,
